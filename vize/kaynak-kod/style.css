@@ -1,0 +1,93 @@
+body {
+    font-family:sans-serif;
+
+    }
+    
+    .anaGovde {
+        width: 1200px;
+        margin: auto;
+        }
+        
+        .solTaraf {
+        float: left;
+        width: 18%;
+        }
+            
+        
+        #logo {
+        margin-bottom: 55px;
+        text-align:center;
+        }
+        
+        #logo img {
+        max-width: 160px;
+        }
+            
+        #header, #footer {
+        font-size: x-large;
+        font-family: sans-serif; 
+        text-align:center;
+        border: 7px solid #e0dddd;
+        padding:15px;
+        }
+        
+        .icerik {
+        font-size: large;
+        font-family: sans-serif;
+        text-align:center;
+        border: 7px solid #e0dddd;
+        margin: 46px 0 20px 0;
+        padding: 14px;
+        }
+        
+        .icerikResmi {
+        text-align: center;
+        }
+            
+        .icerikResmi img {
+        max-width:250px;
+        }
+        
+        #sidebar {
+            font-size:large;
+            font-family: sans-serif;
+            padding: 28px 5px;
+            border: 7px solid #e0dddd;
+            border-radius: 3px;
+            min-height: 140px;
+            position: relative;
+            width: 88%;
+        }
+        
+        #sidebar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        }
+        
+        #sidebar li {
+        padding: 6px;
+        margin-bottom: 10px;
+        background-color: #e0dddd;
+        color: #ffffff;
+        }
+        
+        #sidebar li a{
+        color: #000000;
+        text-decoration:none;
+        }
+        
+        #sidebar li:hover {
+        background-color: #555555;
+        }
+        
+        #content {margin-left: 23%;}
+        
+        #footer {
+        text-align:center;
+        background-color:#e0dddd;
+        color:rgb(0, 0, 0);
+    
+        
+        
+        }
